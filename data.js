@@ -162,7 +162,7 @@ export const experience = [
              `Excellent analysing capability to make necessary changes to optimize the performance of code.`,
               `Cohesive team player & good working experiences both independently and in a team-oriented, collaborative environment.`,
               `Strong experience to develop and deliver technical solutions to business requirements and assignments according to schedules & deadlines.`,
-              `Excellent ability to develop appropriate documentation for architectural, design, technical, implementation, and test activities.`,
+              `Excellent ability to develop appropriate documentation for architectural, design, technical, implementation, and test activities.`
              ],
     tags: ["JavaScript", "Reactjs", "C#","dotnet core API", "Nodejs", "Docker", "Kuberneties"],
     icon: "truck ",
@@ -171,11 +171,10 @@ export const experience = [
     title: "Easyrewardz Software Services",
     duration: "December 2023 - February 2024",
     subtitle: "Senior Technical Lead",
-    details: [
-     [`Over 14+ years of experience in software development using Microsoft.NET technology including analysis/design, programming and architecture.`,
+    details: [`Over 14+ years of experience in software development using Microsoft.NET technology including analysis/design, programming and architecture.`,
               `Strong experience of design patterns like Singleton, Adoptor, Pub and Sub.`,
               `Extensive domain knowledge in Loyalty based project and web portals.`,
-              `Experience in a team leadership role by leading a medium-sized team.`,
+              `Experience in a team leadership role by leading a medium-sized team.`
     ],
     tags: [
       "Asp.net Core",
@@ -298,7 +297,7 @@ export const footer = [
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
+      "Made with &hearts; by Suresh Sharma.",
       "&copy; No Copyrights. Feel free to use this template.",
     ],
   },
