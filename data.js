@@ -1,5 +1,5 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
+  "Hello! I'm Suresh Sharma, an experienced Full Stack Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
   "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
   "Thanks for visiting!",
 ];
@@ -7,57 +7,57 @@ export const bio = [
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "C#, dotnet core, JavaScript, TypeScript, React js",
     color: "1",
     percentage: "80",
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "Angular, RxJS, NGRX/NGXS",
+    skillName: "RxJS, NGRX/NGXS",
     color: "6",
     percentage: "70",
   },
   {
-    title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    title: "SQL",
+    skillName: "Query, Procedure, Function",
     color: "4",
     percentage: "70",
   },
   {
     title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    skillName: "GitHub, TFS",
     color: "7",
     percentage: "70",
   },
   {
     title: "Tools",
-    skillName: "Debugging, Chrome DevTools",
+    skillName: "Debugging, Chrome DevTools, VS",
     color: "3",
     percentage: "80",
   },
-//   {
-//     title: "Analytics",
-//     skillName: "CleverTap, Countly",
-//     color: "5",
-//     percentage: "50",
-//   },
-//   {
-//     title: "IDE",
-//     skillName: "VS Code",
-//     color: "6",
-//     percentage: "70",
-//   },
+ {
+     title: "Cloud Services",
+     skillName: "Azure App Service, Function, Bus Service, blob Storage, Azure SQL, Docker, Kuberneties,",
+     color: "5",
+     percentage: "50",
+   },
+   {
+    title: "IDE",
+     skillName: "VS Code, Visual Studio 2022",
+     color: "6",
+     percentage: "70",
+   },
 ];
 
 export const projects = {
   webProjects: [
     {
-      projectName: "Programming Diaries",
+      projectName: "Cheapoair.com",
       image: "images/programmingdiaries.png",
       summary:
-        "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
+        "Developed a full stack application to provide content on GDS airline details the internet with B2C interface.",
       preview: "https://programmingdiaries.herokuapp.com/",
-      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+      techStack: ["Dotnet core", "C#", "Bootstrap", "JavaScript", "Reactjs","SQL"],
     },
     {
       projectName: "Find Your Bank",
