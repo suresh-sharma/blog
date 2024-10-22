@@ -269,28 +269,28 @@ export const footer = [
 //       },
 //       {
 //         text: "Clone this page",
-//         link: "https://github.com/suresh-sharma/suresh-sharma.github.io",
+//         link: "https://github.com/suresh-sharma/blog",
 //       },
 //     ],
 //   },
   {
     label: "Links",
     data: [
-    //   {
-    //     text: "Linkedin",
-    //     link: "https://www.linkedin.com/in/suresh-sharma/",
-    //   },
-    //   {
-    //     text: "Twitter",
-    //     link: "https://twitter.com/thesigmakid",
-    //   },
+       {
+         text: "Linkedin",
+         link: "https://www.linkedin.com/in/suresh-sharma/",
+       },
+       {
+         text: "Twitter",
+         link: "https://twitter.com/dreamcoding",
+       },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        text:"StackOverflow",
+        link : "https://stackoverflow.com/users/5726160/suresh-sharma"
       },
-      {
-        text: "Github/suresh-sharma.github.io",
-        link: "https://github.com/suresh-sharma/suresh-sharma.github.io",
+       {
+        text: "suresh-sharma/PortFolio",
+        link: "https://github.com/suresh-sharma/blog",
       },
     ],
   },
